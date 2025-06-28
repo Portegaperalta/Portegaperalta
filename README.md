@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **ortegaperaltap@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3>Front-end technologies</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
