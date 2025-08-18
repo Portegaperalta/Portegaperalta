@@ -3,8 +3,6 @@
 
 ![Portegaperalta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Portegaperalta&theme=dark&hide_border=false)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=portegaperalta" alt="portegaperalta" /></a> </p>
-
 - 📫 How to reach me **ortegaperaltap@gmail.com**
 
 <h3>Front-end technologies</h3>
