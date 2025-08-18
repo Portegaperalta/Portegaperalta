@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pablo Ortega</h1>
 <h3 align="center">An aspiring Full Stack Developer from Dominican Republic</h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=portegaperalta&label=Profile%20views&color=0e75b6&style=flat" alt="portegaperalta" /> </p>
+![Portegaperalta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Portegaperalta&theme=dark&hide_border=false)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=portegaperalta" alt="portegaperalta" /></a> </p>
 
