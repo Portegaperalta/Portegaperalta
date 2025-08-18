@@ -35,7 +35,7 @@
 
 <br>
 
-![Portegaperalta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Portegaperalta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Portegaperalta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Portegaperalta&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 <!---
 Portegaperalta/Portegaperalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
