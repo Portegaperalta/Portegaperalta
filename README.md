@@ -33,6 +33,10 @@
 
 ![Portegaperalta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Portegaperalta&theme=dark&hide_border=false)
 
+<br>
+
+![Portegaperalta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Portegaperalta&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <!---
 Portegaperalta/Portegaperalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
