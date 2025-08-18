@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Ortega</h1>
 <h3 align="center">An aspiring Full Stack Developer from Dominican Republic</h3> 
 
-![Portegaperalta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Portegaperalta&theme=dark&hide_border=false)
-
 - 📫 How to reach me **ortegaperaltap@gmail.com**
 
 <h3>Front-end technologies</h3>
@@ -28,6 +26,8 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40"/>
 </p>
+
+![Portegaperalta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Portegaperalta&theme=dark&hide_border=false)
 
 <!---
 Portegaperalta/Portegaperalta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
