@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Ortega</h1>
-<h3 align="center">A Front-end Developer from Dominican Republic</h3> 
+<h3 align="center">A Front-End Developer from Dominican Republic</h3> 
 
 - 📫 How to reach me **ortegaperaltap@gmail.com**
 
