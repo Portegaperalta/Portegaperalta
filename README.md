@@ -19,6 +19,12 @@
  
 </p>
 
+<h3>Back-end technologies</h3>
+
+<p align="left">
+       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="react" width="100" height="100"/>
+</p>
+
 <h3>Tools</h3>
 
 <p align="left">
