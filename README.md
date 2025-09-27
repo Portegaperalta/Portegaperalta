@@ -3,7 +3,7 @@
 
 <p align="center"> 📫 How to reach me: <a href="mailto@ortegaperaltap@gmail.com">ortegaperaltap@gmail.com</a></p>
 
-<h3>Front-end technologies</h3>
+<h3>:black_nib: Front-end technologies</h3>
 
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/>
@@ -17,13 +17,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </p>
 
-<h3>Back-end technologies</h3>
+<h3>:computer: Back-end technologies</h3>
 
 <p align="left">
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="react" width="100" height="100"/>
 </p>
 
-<h3>Tools</h3>
+<h3>🛠Tools</h3>
 
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -33,6 +33,8 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40"/>
 </p>
+
+<h3>:books: Currently Leaning: C#/ASP.NET</h3>
 
 <br>
 
