@@ -20,7 +20,8 @@
 <h3>:computer: Back-end technologies:</h3>
 
 <p align="left">
-       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="react" width="100" height="100"/>
+       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="100"/>
+       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="expressjs" width="100" height="100"/>
 </p>
 
 <h3>🛠Tools:</h3>
