@@ -35,7 +35,7 @@
     <img src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg" alt="eslint" width="40" height="40"/>
 </p>
 
-<h3>:books: Currently Leaning: C#/ASP.NET</h3>
+<h3>:books: Currently Leaning: C#/.NET</h3>
 
 <br>
 
