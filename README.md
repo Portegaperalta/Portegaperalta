@@ -35,7 +35,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
 </p>
 
-<h3>:books: Currently Leaning: C#/.NET</h3>
+<h3>:books: Currently Leaning: C#/.NET Core</h3>
 
 <br>
 
