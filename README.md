@@ -21,6 +21,7 @@
 <p align="left">
         <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/a7821d25cd5381b2701fc43aeac0cfbaefd4f4e8/svg/csharp.svg" alt="csharp" width="70" height="70"/>
        <img src="https://raw.githubusercontent.com/benc-uk/icon-collection/e33ee714d05a24a81cf6ccd967ef34b22cb77e65/logos/dotnet-core.svg" alt="dotnet" width="70" height="70"/>
+       <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/6d907b189019556cc8d23b8381f56df137e6bc4e/svg/microsoft-sql-server-light.svg" alt="sqlserver" width="70" height="70"/>
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="100"/>
        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="expressjs" width="100" height="100"/>
 </p>
