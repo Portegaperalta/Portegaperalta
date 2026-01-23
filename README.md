@@ -40,10 +40,6 @@
 
 <br>
 
-![Portegaperalta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Portegaperalta&theme=dark&hide_border=false)
-
-<br>
-
 ![Portegaperalta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Portegaperalta&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 <!---
