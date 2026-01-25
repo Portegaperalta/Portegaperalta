@@ -22,6 +22,7 @@
         <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/a7821d25cd5381b2701fc43aeac0cfbaefd4f4e8/svg/csharp.svg" alt="csharp" width="70" height="70"/>
        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="dotnet" width="70" height="70"/>
        <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/6d907b189019556cc8d23b8381f56df137e6bc4e/svg/microsoft-sql-server-light.svg" alt="sqlserver" width="70" height="70"/>
+       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="sqlserver" width="70" height="70"/>
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="100"/>
        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="expressjs" width="100" height="100"/>
 </p>
@@ -33,6 +34,7 @@
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="60" height="60"/>
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="60" height="60"/>
     <img src="https://static.wikia.nocookie.net/logopedia/images/e/ec/Microsoft_Visual_Studio_2022.svg/revision/latest?cb=20211027141551" alt="vstudio" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/>
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/>
 </p>
 
