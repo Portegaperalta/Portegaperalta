@@ -25,7 +25,6 @@
        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="sqlserver" width="70" height="70"/>
        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="100" height="70"/>
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="100"/>
-       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21~bgwhite.svg" alt="expressjs" width="100" height="100"/>
 </p>
 
 <h3>🛠Tools:</h3>
