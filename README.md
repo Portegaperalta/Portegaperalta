@@ -3,7 +3,7 @@
 
 <p align="center"> 📫 How to reach me: <a href="mailto@ortegaperaltap@gmail.com">ortegaperaltap@gmail.com</a></p>
 
-<h3>:black_nib: Front-end technologies:</h3>
+<h3>:black_nib: Front-end Technologies:</h3>
 
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="60" height="60"/>
@@ -16,7 +16,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="60"/>
 </p>
 
-<h3>:computer: Back-end technologies:</h3>
+<h3>:computer: Back-end Technologies:</h3>
 
 <p align="left">
         <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/a7821d25cd5381b2701fc43aeac0cfbaefd4f4e8/svg/csharp.svg" alt="csharp" width="70" height="70"/>
@@ -26,6 +26,9 @@
        <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="100" height="70"/>
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="100"/>
 </p>
+
+<h3>☁️: Cloud:</h3>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="70" height="70"/>
 
 <h3>🥼: Testing:</h3>
 
