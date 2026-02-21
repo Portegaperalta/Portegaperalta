@@ -32,6 +32,7 @@
 <p align="left">
        <img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/playwright.svg" alt="playwright" width="70" height="70"/>
        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="selenium" width="70" height="70"/>
+      <img src="https://github.com/xunit/media/blob/main/logo-512-transparent.png?raw=true" alt="Xunit" width="70" height="70"/>
 </p>
 
 <h3>🛠Tools:</h3>
