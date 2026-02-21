@@ -27,6 +27,13 @@
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="100"/>
 </p>
 
+<h3>🥼: Testing:</h3>
+
+<p align="left">
+       <img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/playwright.svg" alt="playwright" width="70" height="70"/>
+       <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="selenium" width="70" height="70"/>
+</p>
+
 <h3>🛠Tools:</h3>
 
 <p align="left">
