@@ -26,7 +26,7 @@
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="100"/>
 </p>
 
-<h3>☁️: Cloud Technologies:</h3>
+<h3>☁️ Cloud:</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="50" height="50"/>
 
 <h3>🥼: Testing:</h3>
