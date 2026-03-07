@@ -27,7 +27,7 @@
        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="nodejs" width="100" height="100"/>
 </p>
 
-<h3>🥼: Testing:</h3>
+<h3>🥼 Testing:</h3>
 
 <p align="left">
        <img src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/playwright.svg" alt="playwright" width="50" height="50"/>
@@ -35,7 +35,7 @@
       <img src="https://github.com/xunit/media/blob/main/logo-512-transparent.png?raw=true" alt="Xunit" width="50" height="50"/>
 </p>
 
-<h3>🛠Tools:</h3>
+<h3>🛠 Tools:</h3>
 
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
