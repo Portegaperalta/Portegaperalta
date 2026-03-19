@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Ortega</h1>
-<h3 align="center">A Software Developer from Dominican Republic</h3> 
+<h3 align="center">An Aspiring Software Engineer from Dominican Republic</h3> 
 
 <p align="center"> 📫 How to reach me: <a href="mailto@ortegaperaltap@gmail.com">ortegaperaltap@gmail.com</a></p>
 
